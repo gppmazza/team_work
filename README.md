@@ -1,2 +1,3 @@
 # team_work
-test repo to use with my github accounts
+public test repo to use with my github accounts:
+gppmazza and giuzmazza are the current collaborators.
